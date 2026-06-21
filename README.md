@@ -1,7 +1,6 @@
 # Introduction to Game Development Projects
 
-This repository contains coursework completed for the **Introduction to Game Development** class at **Brno University of Technology (VUT FIT)**. The projects were developed using **Unity** and **LaTeX**, covering various aspects of game design, development, and analysis.
-
+This repository contains completed projects for the **Introduction to Game Development** class at **Brno University of Technology (VUT FIT)**. 
 ## Project Overview
 
 ### 1. Game Analysis *(LaTeX)*
